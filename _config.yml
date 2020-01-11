@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "댕걸음으로 가는 기술블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "곽준서"
+#name                     : "곽준서"
 description              : "ㅎㅇ"
 url                      : "https://Code4Dog.github.io"
 baseurl                  : ""
