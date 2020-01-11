@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/profile.jpg"
   bio              : "기술블로그로 쓰려고 만듬"
   location         : "서울"
-  email            : Ruggellia@gmail.com
+  email            : "Ruggellia@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
